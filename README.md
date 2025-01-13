@@ -1,8 +1,8 @@
 ---
-# **Code Deck | An Online IDE**
+## **Code Deck | An Online IDE**
 
 ## **Project Overview**
-**Code Deck** is an online Integrated Development Environment (IDE) that enables users to create, edit, and run code snippets in multiple programming languages. It also supports code sharing, theming, and local storage for playgrounds, making it an ideal tool for coding enthusiasts and learners.
+**Code Deck** is an online Integrated Development Environment (IDE) that enables users to create, edit, and run code snippets in multiple programming languages. It also supports code sharing, theming, and local playground storage, making it an ideal tool for coding enthusiasts and learners.
 
 ---
 
